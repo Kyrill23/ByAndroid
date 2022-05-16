@@ -1,4 +1,4 @@
-+@echo off
+@echo off
 set loopcount=1000
 set strhi=C:
 echo strhi
