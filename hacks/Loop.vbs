@@ -5,3 +5,4 @@ Do Until i = True
   i = False
   End If
 Loop
+echo Fehler
